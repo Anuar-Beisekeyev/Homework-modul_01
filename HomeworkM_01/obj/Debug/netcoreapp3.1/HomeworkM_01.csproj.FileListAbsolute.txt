@@ -1,0 +1,26 @@
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.exe
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.deps.json
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.runtimeconfig.json
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.runtimeconfig.dev.json
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.dll
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.pdb
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.csprojAssemblyReference.cache
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.AssemblyInfoInputs.cache
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.AssemblyInfo.cs
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.csproj.CoreCompileInputs.cache
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.dll
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.pdb
+G:\Проекты visual studio\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.genruntimeconfig.cache
+G:\Проекты\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.exe
+G:\Проекты\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.deps.json
+G:\Проекты\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.runtimeconfig.json
+G:\Проекты\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.runtimeconfig.dev.json
+G:\Проекты\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.dll
+G:\Проекты\HomeworkM_01\HomeworkM_01\bin\Debug\netcoreapp3.1\HomeworkM_01.pdb
+G:\Проекты\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.csprojAssemblyReference.cache
+G:\Проекты\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.AssemblyInfo.cs
+G:\Проекты\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.dll
+G:\Проекты\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.pdb
+G:\Проекты\HomeworkM_01\HomeworkM_01\obj\Debug\netcoreapp3.1\HomeworkM_01.genruntimeconfig.cache
